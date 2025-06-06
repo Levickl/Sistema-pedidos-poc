@@ -33,10 +33,11 @@ Este repositório contém a solução desenvolvida para a Prova de Conceito (PoC
 │   └── docker-compose.yml
 │
 ├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── vite.config.js
-│   └── tailwind.config.js
+│   └── gestaopedidosApp/
+│       ├── public/
+│       ├── src/
+│       ├── vite.config.js
+│       └── tailwind.config.js
 │
 └── README.md
 ```
