@@ -6,7 +6,7 @@ Este repositório contém a solução desenvolvida para a Prova de Conceito (PoC
 
 ## 🧰 Tecnologias Utilizadas
 
-### 🔙 Backend (.NET 7)
+### 🔙 Backend (.NET 9)
 - C#
 - ASP.NET Core Web API
 - Entity Framework Core
