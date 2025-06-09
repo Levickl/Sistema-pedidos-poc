@@ -1,0 +1,6 @@
+@PedidoGestaoAPI_HostAddress = http://localhost:5109
+
+GET {{PedidoGestaoAPI_HostAddress}}/swagger/
+Accept: application/json
+
+###
