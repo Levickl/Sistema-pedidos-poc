@@ -74,7 +74,7 @@ namespace PedidoGestaoAPI.BackgroundServices
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new NotImplementedException();
+            return Task.CompletedTask;
         }
 
         private class OrderMessage
