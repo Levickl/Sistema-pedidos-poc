@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PedidoGestao.Infrastructure.Persistence;
+using PedidoGestaoAPI.BackgroundServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
